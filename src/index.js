@@ -2,13 +2,8 @@
 //Desafio Classificador de nível de Herói
 
 //Variaveis
-let personagem = [["Kael da Tempestade" , "752"] , 
-["Thorgar Punho de Pedra" , "1.230"] , 
-["Eliris Guardian da Luz" , "2008"] , 
-["Dornak Coracao Selvagem" , "6881"] , 
-["Nerion Olho de Falcao" , "7558"] , 
-["Braknor, o Incansavel" , "9167"] , 
-["Varya da Nevoa Eterna" , "12765"]]
+let personagem = [["Kael da Tempestade" , "752"],["Thorgar Punho de Pedra" , "1.230"], ["Eliris Guardian da Luz" , "2008"],["Dornak Coracao Selvagem" , "6881"],["Nerion Olho de Falcao" , "7558"],["Braknor, o Incansavel" , "9167"],["Varya da Nevoa Eterna" , "12765"]]
+
 let niveis = [["Ferro","1000"],["bronze","2000"],["prata","5000"],["ouro","7000"],["platina","8000"],["ascendente","9000"],["imortal","10000"]]
 
 //Estruturas Condicionais
