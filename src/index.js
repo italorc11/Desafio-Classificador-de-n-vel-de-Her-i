@@ -1,3 +1,7 @@
+
+//Desafio Classificador de nível de Herói
+
+//Variaveis
 let personagem = [["Kael da Tempestade" , "752"] , 
 ["Thorgar Punho de Pedra" , "1.230"] , 
 ["Eliris Guardian da Luz" , "2008"] , 
@@ -6,6 +10,8 @@ let personagem = [["Kael da Tempestade" , "752"] ,
 ["Braknor, o Incansavel" , "9167"] , 
 ["Varya da Nevoa Eterna" , "12765"]]
 let niveis = [["Ferro","1000"],["bronze","2000"],["prata","5000"],["ouro","7000"],["platina","8000"],["ascendente","9000"],["imortal","10000"]]
+
+//Estruturas Condicionais
 if(personagem[0] <= niveis){
     console.log("O Herói de nome: " + personagem[0][0] + " esta no nivel: " + niveis[0][0])
 }
